@@ -37,7 +37,7 @@
     •	Axios (https://axios.rest/pages/getting-started/first-steps.html);
     <p>
     •	PHP (https://www.php.net/docs.php);
-
+    <p>
 
 ---
 
@@ -54,6 +54,7 @@
     3.2.	```Backend:```
     <p>
     •	PHP;
+    <p>
 
 ---
 
@@ -64,7 +65,8 @@
     •	Bootstrap;
     <p>
     •	Vite (Criação do projeto);
-
+    <p>
+    
 ---
 
 
@@ -83,6 +85,7 @@
     •	React-Router-Dom;
     <p>
     •	React-Toastify;
+    <p>
 
 ---
 
@@ -93,6 +96,7 @@
     •	respect/validation;
     <p>
     •	firebase/php-jwt;
+    <p>
 
 ---
 
@@ -105,6 +109,7 @@
     •	CTRL + A; 
     <p>
     •	SHIFT + ALT + F;
+    <p>
     
 
 ---
@@ -114,4 +119,5 @@
     •	PHP Intelephense;
     <p>
     •	Error Lens (Em teste);
+    <p>
     
