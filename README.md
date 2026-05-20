@@ -1,5 +1,8 @@
 # LEVANTAMENTO DE FERRAMENTAS EM USO PARA A COMPETIÇÃO
 
+
+
+
 1.	Aplicativos em uso:
     •	Visual Studio Code;
     <p>
