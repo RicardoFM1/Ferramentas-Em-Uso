@@ -14,10 +14,12 @@
     •	Git;
     <p>
     •	NodeJS;
+    <p>
 
---
+---
 
 2.	Websites em uso:
+    <p>
     •	Gerador de CPF (http://4devs.com.br/gerador_de_cpf);
     <p>
     •	Github (https://github.com/RicardoFM1);
@@ -37,7 +39,7 @@
     •	PHP (https://www.php.net/docs.php);
 
 
---
+---
 
 
 3.	Linguagens em uso:
@@ -53,7 +55,7 @@
     <p>
     •	PHP;
 
---
+---
 
 4.	Frameworks em uso:
     <p>
@@ -62,6 +64,8 @@
     •	Bootstrap;
     <p>
     •	Vite (Criação do projeto);
+
+---
 
 
 5.	Bibliotecas em uso:
@@ -79,7 +83,8 @@
     •	React-Router-Dom;
     <p>
     •	React-Toastify;
-    <p>
+
+---
 
 5.2.	```Backend:```
     <p>
@@ -88,6 +93,8 @@
     •	respect/validation;
     <p>
     •	firebase/php-jwt;
+
+---
 
 6.	Atalhos em uso:
     <p>
@@ -98,11 +105,13 @@
     •	CTRL + A; 
     <p>
     •	SHIFT + ALT + F;
-    <p>
+    
+
+---
 
 7.	Extensões em uso:
     <p>
     •	PHP Intelephense;
     <p>
     •	Error Lens (Em teste);
-    <p>
+    
