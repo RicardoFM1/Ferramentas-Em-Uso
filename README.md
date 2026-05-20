@@ -2,8 +2,11 @@
 
 1.	Aplicativos em uso:
 •	Visual Studio Code;
+<p>
 •	Google;
+<p>
 •	Insomnia;
+
 •	Mysql Workbench;
 •	Mysql Server (Serviço);
 •	Git;
