@@ -3,7 +3,7 @@
 
 
 
-1.	Aplicativos em uso:
+## 1.	Aplicativos em uso:
     <p>
     •	Visual Studio Code;
     <p>
@@ -22,7 +22,7 @@
 
 ---
 
-2.	Websites em uso:
+## 2.	Websites em uso:
     <p>
     •	Gerador de CPF (http://4devs.com.br/gerador_de_cpf);
     <p>
@@ -46,7 +46,7 @@
 ---
 
 
-3.	Linguagens em uso:
+## 3.	Linguagens em uso:
     <p>
     
     3.1.	```Frontend:```
@@ -62,7 +62,7 @@
 
 ---
 
-4.	Frameworks em uso:
+## 4.	Frameworks em uso:
     <p>
     4.1.	```Frontend:```
     <p>
@@ -74,9 +74,9 @@
 ---
 
 
-5.	Bibliotecas em uso:
+## 5.	Bibliotecas em uso:
     <p>
-    5.1.	```Frontend:```
+   5.1.	```Frontend:```
     <p>
     •	Axios;
     <p>
@@ -93,7 +93,7 @@
 
 ---
 
-5.2.	```Backend:```
+   5.2.	```Backend:```
     <p>
     •	vlucas/phpdotenv;
     <p>
@@ -104,7 +104,7 @@
 
 ---
 
-6.	Atalhos em uso:
+## 6.	Atalhos em uso:
     <p>
     •	CTRL + C; CTRL + V;
     <p>
@@ -118,7 +118,7 @@
 
 ---
 
-7.	Extensões em uso:
+## 7.	Extensões em uso:
     <p>
     •	PHP Intelephense;
     <p>
