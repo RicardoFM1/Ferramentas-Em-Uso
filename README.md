@@ -4,7 +4,7 @@
 
 
 ## 1.	Aplicativos em uso:
-    <p>
+ <p>
     •	Visual Studio Code;
     <p>
     •	Google;
