@@ -18,6 +18,9 @@
     •	Git;
     
     •	NodeJS;
+ 
+    •	Composer;
+    
     
 
 ---
