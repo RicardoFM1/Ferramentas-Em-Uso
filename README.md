@@ -45,6 +45,10 @@
     
     •	PHP (https://www.php.net/docs.php);
     
+    • Gerador de paleta de cores (https://coolors.co/);
+
+    • Fontes do google (https://fonts.google.com/);
+    
 
 ---
 
@@ -124,6 +128,12 @@
    
     •	PHP Intelephense;
     
-    •	Error Lens (Em teste);
+    •	Error Lens;
+
+    • Material Icon;
+
+    • Thunder client;
+    
+    
     
     
